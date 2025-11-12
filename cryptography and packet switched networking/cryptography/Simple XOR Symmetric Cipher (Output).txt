@@ -1,0 +1,10 @@
+
+--- Symmetric Cipher (XOR) Demonstration ---
+Original Text: The quick brown fox jumps over the lazy dog.
+Key:           SECRETKEY
+
+Ciphertext (Raw Bytes): 007 045 038 114 052 033 034 038 050 115 039 049 061 050 058 107 035 054 043 101 041 039 040 036 056 101 054 037 032 049 114 049 060 046 101 053 050 063 058 114 033 059 044 107 
+
+Decrypted Text: The quick brown fox jumps over the lazy dog.
+
+[SUCCESS] Encryption and decryption verified.
